@@ -1,0 +1,26 @@
+### ExtJs ###
+
+build
+**/.architect
+**/BTSONEHOST/bootstrap.*
+**/BTSONETENANT/bootstrap.*
+**/BTSONEHOST/classic.json*
+**/BTSONEHOST/modern.json*
+**/BTSONETENANT/classic.json*
+**/BTSONETENANT/modern.json*
+**/.vscode
+**/ext
+**/resources/sass/.sass-cache/
+**/resources/.arch-internal-preview.css
+**/.arch-internal-preview.css
+
+**/.DS_Store
+!**/packages/*
+
+**/BTSONETENANT/legal
+**/BTSONETENANT/tenant
+
+**/BTSONETENANT/legal.json*
+**/BTSONETENANT/tenant.json*
+
+# End of https://www.gitignore.io/api/extjs
