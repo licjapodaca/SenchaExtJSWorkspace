@@ -4,9 +4,7 @@
      */
     "apps": [
         "apps/my-first-app",
-        "apps/my-second-app",
-        "packages/local/theme-web/.sencha/temp/Themer",
-        "packages/local/theme-mobile/.sencha/temp/Themer"
+        "apps/my-second-app"
     ],
 
     /**
