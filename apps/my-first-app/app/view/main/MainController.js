@@ -13,7 +13,9 @@ Ext.define('MyFirstApp.view.main.MainController', {
 
     onConfirm: function (choice) {
         if (choice === 'yes') {
-            //
-        }
+            console.log("Si");
+        } else {
+			console.log("Nox");
+		}
     }
 });
