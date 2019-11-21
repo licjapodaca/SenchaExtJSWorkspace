@@ -2,12 +2,12 @@
 
 build
 **/.architect
-**/BTSONEHOST/bootstrap.*
-**/BTSONETENANT/bootstrap.*
-**/BTSONEHOST/classic.json*
-**/BTSONEHOST/modern.json*
-**/BTSONETENANT/classic.json*
-**/BTSONETENANT/modern.json*
+**/my-first-app/bootstrap.*
+**/my-second-app/bootstrap.*
+**/my-first-app/classic.json*
+**/my-first-app/modern.json*
+**/my-second-app/classic.json*
+**/my-second-app/modern.json*
 **/.vscode
 **/ext
 **/resources/sass/.sass-cache/
@@ -16,11 +16,5 @@ build
 
 **/.DS_Store
 !**/packages/*
-
-**/BTSONETENANT/legal
-**/BTSONETENANT/tenant
-
-**/BTSONETENANT/legal.json*
-**/BTSONETENANT/tenant.json*
 
 # End of https://www.gitignore.io/api/extjs
