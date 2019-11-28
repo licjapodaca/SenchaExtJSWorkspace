@@ -36,9 +36,14 @@ Ext.define('MyFirstApp.view.main.Main', {
         },{
             title: 'Users',
 			iconCls: 'x-fa fa-user',
-            bind: {
-                html: '{loremIpsum}'
-            }
+            // bind: {
+            //     html: '{loremIpsum}'
+			// }
+			items:[
+				{
+					xtype: 'panchito'
+				}
+			]
         },{
             title: 'Groups',
             iconCls: 'x-fa fa-users',
